@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overall/party/","tags":["gardenEntry"],"dgShowToc":"True"}
+{"dg-publish":true,"permalink":"/overall/party/","tags":["gardenEntry"]}
 ---
 
 ---
