@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/session-1/session-1-notes/"}
 ---
 
-
+---
 
 - Turmish, locale with crumbling battlements that the town used as structures to build off of.  The town is not particularly nice, but it's a humble home.
 - Post Spell-plague.
