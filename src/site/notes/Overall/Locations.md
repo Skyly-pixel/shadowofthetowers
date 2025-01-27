@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overall/locations/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/overall/locations/"}
 ---
 
 ---
