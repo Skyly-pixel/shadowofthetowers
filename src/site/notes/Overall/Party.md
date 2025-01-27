@@ -3,6 +3,7 @@
 ---
 
 ---
+[h3]Party Information[h3]
 - Warblidrak, Wizard, Specialty: Magic/Arcane - Looking for a mage tower.  Needs support.
 - Zaerydin, Specialty: Athletics - Tall wood elf who's suspiciously attractive, tends to be loose with his money
 - Mable, Specialty: - Halfling, older with a collapsible cane, large mysterious bag

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-1/session-1-notes/","dgShowToc":true}
+{"dg-publish":true,"permalink":"/session-1/session-1-notes/"}
 ---
 
 ---
