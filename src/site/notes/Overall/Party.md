@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/overall/party/"}
+{"dg-publish":true,"permalink":"/overall/party/","tags":["gardenEntry"]}
 ---
 
-
-
+---
 - Warblidrak, Wizard, Specialty: Magic/Arcane - Looking for a mage tower.  Needs support.
 - Zaerydin, Specialty: Athletics - Tall wood elf who's suspiciously attractive, tends to be loose with his money
 - ![[Pasted image 20250126145939.png \|Pasted image 20250126145939.png ]]
