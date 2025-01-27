@@ -1,11 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/overall/treasure-and-findings/","created":"2025-01-26T15:11:11.331-05:00","updated":"2025-01-26T21:59:27.135-05:00"}
+{"dg-publish":true,"permalink":"/overall/treasure-and-findings/","created":"2025-01-26T15:11:11.331-05:00","updated":"2025-01-27T18:20:21.405-05:00"}
 ---
 
 ---
 # Treasure and Findings
-- Boots of Springing - Triples leap distance, went to Din
-- Potion of Healing (Low) - Went to Warblidrak
-- Potion of Mage Armor - Went to Warblidrak
+- [[zItem Index/Boots of Striding & Springing\|Boots of Striding & Springing]] - Triples leap distance, went to Din
+- [[zItem Index/Potion of Healing (Common)\|Potion of Healing (Common)]] - Went to Warblidrak
+- [[zItem Index/Potion of Mage Armor\|Potion of Mage Armor]] - Went to Warblidrak
 - Romance novels of various types
+- Spellbook entitled [[zItem Index/"Introductory Transmutation for Adventurers"\|"Introductory Transmutation for Adventurers"]]
+- Scroll of *Scorching Ray*
 

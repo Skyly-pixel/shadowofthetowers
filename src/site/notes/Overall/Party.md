@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overall/party/","tags":["gardenEntry"],"created":"2025-01-26T13:18:37.385-05:00","updated":"2025-01-26T22:06:57.316-05:00"}
+{"dg-publish":true,"permalink":"/overall/party/","tags":["gardenEntry"],"created":"2025-01-26T13:18:37.385-05:00","updated":"2025-01-27T18:09:27.908-05:00"}
 ---
 
 ---
@@ -8,7 +8,6 @@
 
 
 ![ZaeyradinProf.png|300](/img/user/zReferences%20Images/ZaeyradinProf.png)
-[[ZaeyradinProf.png]]
 - Zaerydin, Elf(?), Monk; Specialty: Athletics/Combat - Tall wood elf who's suspiciously attractive, tends to be loose with his money
 
 - Mable, Halfling; Specialty: Combat - Older lady with a collapsible cane, large mysterious bag.
