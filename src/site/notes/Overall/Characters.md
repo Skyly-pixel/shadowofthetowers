@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overall/characters/"}
+{"dg-publish":true,"permalink":"/overall/characters/","created":"2025-01-26T13:16:24.818-05:00","updated":"2025-01-26T20:36:12.862-05:00"}
 ---
 
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-1/session-1-notes/"}
+{"dg-publish":true,"permalink":"/session-1/session-1-notes/","created":"2025-01-26T13:16:24.353-05:00","updated":"2025-01-26T21:15:22.746-05:00"}
 ---
 
 ---
