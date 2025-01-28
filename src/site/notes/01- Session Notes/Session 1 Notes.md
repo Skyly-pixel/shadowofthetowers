@@ -6,7 +6,7 @@
 # Session 1 Notes
 
 - Turmish, locale with crumbling battlements that the town used as structures to build off of.  The town is not particularly nice, but it's a humble home.
-- Post Spell-plague.
+- Post [[03- Historical Index/Spell Plague\|Spell Plague]].
 - Sad drinker in the bar, Guinevere, monk gets her some shots
 - Human bartender with big bushy mustache, co-owner named Guinevere.
 - Four-ish days ago a party came through, stand-offish, looking to explore mage tower.  There was a flash recently, Guinevere's husband went to check and hasn't returned.
