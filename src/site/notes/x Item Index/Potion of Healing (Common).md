@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-item-index/potion-of-healing-common/","created":"2025-01-27T18:05:41.589-05:00","updated":"2025-01-27T18:22:42.234-05:00"}
+{"dg-publish":true,"permalink":"/x-item-index/potion-of-healing-common/"}
 ---
 
 # Potion of Healing(Common)

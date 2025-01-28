@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-item-index/boots-of-striding-and-springing/","created":"2025-01-27T17:59:14.723-05:00","updated":"2025-01-27T18:17:37.891-05:00"}
+{"dg-publish":true,"permalink":"/x-item-index/boots-of-striding-and-springing/"}
 ---
 
 # Boots of Striding & Springing

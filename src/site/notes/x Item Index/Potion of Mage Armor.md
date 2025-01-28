@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-item-index/potion-of-mage-armor/","created":"2025-01-27T18:16:50.453-05:00","updated":"2025-01-27T18:22:29.551-05:00"}
+{"dg-publish":true,"permalink":"/x-item-index/potion-of-mage-armor/"}
 ---
 
 # Potion of Mage Armor

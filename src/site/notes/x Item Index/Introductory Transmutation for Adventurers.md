@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/x-item-index/introductory-transmutation-for-adventurers/","created":"2025-01-27T18:10:49.302-05:00","updated":"2025-01-27T20:53:04.559-05:00"}
+{"dg-publish":true,"permalink":"/x-item-index/introductory-transmutation-for-adventurers/"}
 ---
 
 # Introductory Transmutation for Adventurers
