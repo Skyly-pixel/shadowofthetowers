@@ -24,5 +24,6 @@ Fairy, Ranger; Specialty: Recon/Survival , Fairy (they/them) - A tiny, cute flie
 
 #### Cheryl Corvid
 (she/her)
+![CherylProf.png|300](/img/user/04-%20Reference%20&%20Images/CherylProf.png)
 - Cheryl Corvid, Human, Cleric; Specialty: Religion/Support - Thousand yard stare, loose grasp on the concept of personal space.
 
