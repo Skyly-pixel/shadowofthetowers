@@ -6,6 +6,7 @@
 # Party Information
 
 #### Warblidrak
+(she/her)
 Goblin, Wizard; Specialty: Magic/Arcana - Looking to recruit allies to find a mage tower.  Our inquisitive champion.
 
 #### Zaerydin
@@ -13,6 +14,7 @@ Goblin, Wizard; Specialty: Magic/Arcana - Looking to recruit allies to find a ma
 Elf(?), Monk; Specialty: Athletics/Combat - Tall wood elf who's suspiciously attractive, tends to be loose with his money
 
 #### Mable
+(she/her)
 Halfling; Specialty: Combat - Older lady with a collapsible cane, large mysterious bag.
 
 #### Peter
