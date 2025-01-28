@@ -9,7 +9,7 @@
 Goblin, Wizard; Specialty: Magic/Arcana - Looking to recruit allies to find a mage tower.  Our inquisitive champion.
 
 #### Zaerydin
-![ZaeyradinProf.png|300](/img/user/zReferences%20Images/ZaeyradinProf.png)
+![ZaeyradinProf.png|300](/img/user/xx%20References%20Images/ZaeyradinProf.png)
 Elf(?), Monk; Specialty: Athletics/Combat - Tall wood elf who's suspiciously attractive, tends to be loose with his money
 
 #### Mable
