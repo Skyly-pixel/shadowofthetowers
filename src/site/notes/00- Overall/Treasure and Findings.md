@@ -1,0 +1,13 @@
+---
+{"dg-publish":true,"permalink":"/00-overall/treasure-and-findings/"}
+---
+
+---
+# Treasure and Findings
+- [[02- Item Index/Boots of Striding & Springing\|Boots of Striding & Springing]] - Triples leap distance, went to Din
+- [[02- Item Index/Potion of Healing (Common)\|Potion of Healing (Common)]] - Went to Warblidrak
+- [[02- Item Index/Potion of Mage Armor\|Potion of Mage Armor]] - Went to Warblidrak
+- Romance novels of various types
+- Spellbook entitled [[02- Item Index/Introductory Transmutation for Adventurers\|Introductory Transmutation for Adventurers]]
+- Scroll of *Scorching Ray*
+
